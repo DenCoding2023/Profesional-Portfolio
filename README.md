@@ -75,6 +75,6 @@ GitHub: https://github.com/DenCoding2023/Professional-Portfolio.git"
 Link to site: 
 
 ## Usage 
-
+update npm
 To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume.
 
