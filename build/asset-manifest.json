@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65cd7f94.css",
+    "main.js": "/static/js/main.eac9d4c4.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Sweet-Pea-Flowers.png": "/static/media/Sweet-Pea-Flowers.0fa379e4c9d6c155f012.png",
+    "static/media/HomeBrew.png": "/static/media/HomeBrew.9a3065b69b6b418dc2a7.png",
+    "static/media/imageD.jpg": "/static/media/imageD.88baf8602bb0438c044b.jpg",
+    "static/media/Twilight_Ristorante.png": "/static/media/Twilight_Ristorante.f5b976e32680da017119.png",
+    "static/media/Summer_Punch.png": "/static/media/Summer_Punch.c7da771fb6c126146be3.png",
+    "static/media/Weather_Dash.png": "/static/media/Weather_Dash.fb8dfe9ddd2d1911fd44.png",
+    "static/media/Lindsey_Martin_Resume_2023.pdf": "/static/media/Lindsey_Martin_Resume_2023.eb8b182a5b896c851cbf.pdf",
+    "static/media/Sphere.png": "/static/media/Sphere.ac26b22491da9c538736.png",
+    "static/media/NoteTaker.png": "/static/media/NoteTaker.a02f46f0add6517fa071.png",
+    "static/media/backImage.jpg": "/static/media/backImage.8fa87c95a6dbc178b9d0.jpg",
+    "index.html": "/index.html",
+    "main.65cd7f94.css.map": "/static/css/main.65cd7f94.css.map",
+    "main.eac9d4c4.js.map": "/static/js/main.eac9d4c4.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65cd7f94.css",
+    "static/js/main.eac9d4c4.js"
+  ]
+}
