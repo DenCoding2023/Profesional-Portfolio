@@ -70,7 +70,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Link 
 
-GitHub: https://github.com/DenCoding2023/Profesional-Portfolio.git"
+GitHub: https://github.com/DenCoding2023/Professional-Portfolio.git"
 
 Link to site: 
 
